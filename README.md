@@ -22,3 +22,7 @@ Lalu setelah membuat dan menyimpan file css tersebut, kemudian kita tambahkan ta
 ### Menambahkan CSS Selector
 Lalu selanjutnya kita menambahkan CSS selector menggunakan ID dan class selector. ID ini kita tulis pada file style_eksternal.css. Berikut tampilannya:
 ![gambar6](screenshot/ss6.png)
+
+### Hasil dari Praktek CSS Dasar HTML
+Berikut ini adalah tampilan dari praktek yang saya lakukan:
+![img]screenshot/ss7.png
