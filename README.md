@@ -17,4 +17,4 @@ Kita menambahkan deklarasi inline CSS pada tag `<p>` dengan `<p style>` yang dim
 Disini saya ingin mengubah tampilan web menjadi lebih bewarna manggunakan CSS eksternal, yang harus dilakukan adalah membuat satu file baru terserah dengan nama apa saja, tetapi disini saya menggunakan nama style_eksternal.css seperti pada tampilan berikut ini:
 ![gambar4](screenshot/ss4.png)
 Lalu setelah membuat dan menyimpan file css tersebut, kemudian kita tambahkan tag `<link>` pada file lab2_css_dasar.html pada bagian `<head>` untuk merujuk file CSS yang sudah dibuat. begini tampilannya:
-![img]screenshot/ss5.png
+![gambar5](screenshot/ss5.png)
