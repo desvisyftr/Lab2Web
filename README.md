@@ -7,4 +7,4 @@ Membuat dokumen HTML yang berisi judul memakai tag `<title>`, paragraf memakai t
 
 ### CSS Internal
 Mendeklarasikan CSS internal pada bagian head dokumen, penulisan internal CSS menggunakan tag `<style>` yang diletakkan pada `<head>` dokumen. Inilah tampilannya:
-![img]screenshot/ss2.png
+![gambar2](screenshot/ss2.png)
