@@ -18,3 +18,7 @@ Disini saya ingin mengubah tampilan web menjadi lebih bewarna manggunakan CSS ek
 ![gambar4](screenshot/ss4.png)
 Lalu setelah membuat dan menyimpan file css tersebut, kemudian kita tambahkan tag `<link>` pada file lab2_css_dasar.html pada bagian `<head>` untuk merujuk file CSS yang sudah dibuat. begini tampilannya:
 ![gambar5](screenshot/ss5.png)
+
+### Menambahkan CSS Selector
+Lalu selanjutnya kita menambahkan CSS selector menggunakan ID dan class selector. ID ini kita tulis pada file style_eksternal.css. Berikut tampilannya:
+![img]screenshot/ss6.png
