@@ -12,3 +12,7 @@ Mendeklarasikan CSS internal pada bagian head dokumen, penulisan internal CSS me
 ### Menambahkan Inline CSS
 Kita menambahkan deklarasi inline CSS pada tag `<p>` dengan `<p style>` yang dimana itu akan mengubah warna huruf pada paragraf. Saat ditempatkan pada suatu syntax, Inline CSS hanya mempengaruhi satu bagian baris kode. Inilah tampilannya:
 ![gambar3](screenshot/ss3.png)
+
+### Membuat dan Menambahkan CSS Eksternal
+Disini saya ingin mengubah tampilan web menjadi lebih bewarna manggunakan CSS eksternal, yang harus dilakukan adalah membuat satu file baru terserah dengan nama apa saja, tetapi disini saya menggunakan nama style_eksternal.css seperti pada tampilan berikut ini:
+![img]screenshot/ss4.png
