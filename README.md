@@ -25,4 +25,4 @@ Lalu selanjutnya kita menambahkan CSS selector menggunakan ID dan class selector
 
 ### Hasil dari Praktek CSS Dasar HTML
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![img]screenshot/ss7.png
+![gambar7](screenshot/ss7.png)
