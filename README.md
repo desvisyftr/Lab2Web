@@ -15,4 +15,4 @@ Kita menambahkan deklarasi inline CSS pada tag `<p>` dengan `<p style>` yang dim
 
 ### Membuat dan Menambahkan CSS Eksternal
 Disini saya ingin mengubah tampilan web menjadi lebih bewarna manggunakan CSS eksternal, yang harus dilakukan adalah membuat satu file baru terserah dengan nama apa saja, tetapi disini saya menggunakan nama style_eksternal.css seperti pada tampilan berikut ini:
-![img]screenshot/ss4.png
+![gambar4](screenshot/ss4.png)
